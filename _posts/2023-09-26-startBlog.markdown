@@ -5,9 +5,9 @@ date: 2023-09-26 11:07:16 +0900
 categories: FIBUD TEST
 ---
 
-#피벗
+## 피벗
 
-피벗 블로그 시작 !
+# 피벗 블로그 시작 !
 
 기능 테스트 !!
 
@@ -15,6 +15,18 @@ categories: FIBUD TEST
 const fibud = a;
 ```
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## 안녕
+
+안녕하세요
+
+## 이제
+
+- 마무리
+- 할거임
+  - ㄴ
+
+---
+
+잘가셈
+
+### 하위 태그?
